@@ -1,8 +1,6 @@
 package edu.aluismarte.diplomado.project.domain;
 
-import edu.aluismarte.diplomado.project.week9.network.dto.EmployeeDTO;
 import edu.aluismarte.diplomado.project.week9.network.dto.PaymentDTO;
-import edu.aluismarte.diplomado.project.week9.network.request.UpdateEmployeeRequest;
 import edu.aluismarte.diplomado.project.week9.network.request.UpdatePaymentRequest;
 import lombok.*;
 

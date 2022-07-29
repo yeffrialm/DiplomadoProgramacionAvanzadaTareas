@@ -3,7 +3,6 @@ package edu.aluismarte.diplomado.project.week9.network.request;
 import lombok.*;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
 import java.util.UUID;
 
 /**

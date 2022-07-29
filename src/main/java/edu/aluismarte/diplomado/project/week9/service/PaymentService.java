@@ -1,7 +1,6 @@
 package edu.aluismarte.diplomado.project.week9.service;
 
 
-import edu.aluismarte.diplomado.project.domain.Employee;
 import edu.aluismarte.diplomado.project.domain.Payment;
 import edu.aluismarte.diplomado.project.repositories.PaymentRepository;
 import edu.aluismarte.diplomado.project.week9.FactoryPattern;
